@@ -1,6 +1,4 @@
-## Intro to express....with puppies!
-
-![http://www.unitedwaynorman.org/sites/unitedwaynorman.org/files/cutepuppy.jpg](http://www.unitedwaynorman.org/sites/unitedwaynorman.org/files/cutepuppy.jpg)
+## Intro to Mongo with Express
 
 ### Background
 
